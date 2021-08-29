@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1630241968 source:c:\users\admin\documents\cpp\finalbms.cpp\untitled2.cpp
-	<iostream>
-	<fstream>
-	<cctype>
-	<iomanip>
-	<windows.h>
-
